@@ -20,4 +20,9 @@ import { HomePage } from './home.page';
   ],
   declarations: [HomePage]
 })
+
+function idk(){
+  return "rara";
+}
+
 export class HomePageModule {}
